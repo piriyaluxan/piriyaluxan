@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | MERN-Stack Developer | React Developer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=piriyaluxan&color=radical&label=Profile+Views)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piriyaluxan&label=Profile%20views&color=0e75b6&style=flat" alt="piriyaluxan" /> </p>
 
 - 🔭 I recently graduated with a **BICT (Hons) in Software Systems** from University of Kelaniya
 - 🌱 Currently building projects with **JavaScript, PHP, React.js, Node.js, MongoDB, MySQL, TensorFlow & AI**
