@@ -59,5 +59,5 @@ Responsive movie discovery app with search, filters, ratings, and details fetche
 **Pinned Projects**  
 MovieMind • Library-Management-System • Mood-based-playlist-generator
 
-<img width="1024" height="1024" alt="ChatGPT Image Feb 12, 2026, 10_46_06 AM" src="https://github.com/user-attachments/assets/b0cf0c88-b721-432e-9637-7a162a5353af" />
+<!-- <img width="1024" height="1024" alt="ChatGPT Image Feb 12, 2026, 10_46_06 AM" src="https://github.com/user-attachments/assets/b0cf0c88-b721-432e-9637-7a162a5353af" /> -->
 
